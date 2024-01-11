@@ -7,3 +7,4 @@ city = 'London'
 friend_name = 'Amy'
 sentence = 'my friend {} is going to {}.'.format(friend_name, city)
 print(sentence)
+
