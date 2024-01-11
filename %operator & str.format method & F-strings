@@ -12,3 +12,6 @@ place = 'school'
 activity = 'read books'
 sentence2 = F'i often go to {place} to {activity}.'
 print(sentence2)
+
+age = int(input('your age'))
+print('i am', age, 'year old.')
