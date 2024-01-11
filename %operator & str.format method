@@ -1,0 +1,9 @@
+name = 'Alice'
+age = 29
+message = 'My name is %s. I am %d years old.'%(name, age)
+print(message)
+
+city = 'London'
+friend_name = 'Amy'
+sentence = 'my friend {} is going to {}.'.format(friend_name, city)
+print(sentence)
