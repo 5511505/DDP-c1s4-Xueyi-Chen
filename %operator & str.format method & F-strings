@@ -8,3 +8,7 @@ friend_name = 'Amy'
 sentence = 'my friend {} is going to {}.'.format(friend_name, city)
 print(sentence)
 
+place = 'school'
+activity = 'read books'
+sentence2 = F'i often go to {place} to {activity}.'
+print(sentence2)
